@@ -3,8 +3,8 @@
 Mechanical engineer in the HVAC trade. Software developer by hobby.
 
 I build practical software for my own use and the people around me:
-[ad-free weather forecasts](https://github.com/anglim3/jaccuweather)
-and a [single-file CLI for the X API](https://github.com/anglim3/xctl)
+ad-free weather forecasts [Jaccuweather](https://github.com/anglim3/jaccuweather)
+and a single-file CLI for the X API [xctl](https://github.com/anglim3/xctl)
 are public right now. Live golf scoring, machine-readable breadboard
 designs, and home automation are in various stages of done.
 
