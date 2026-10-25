@@ -1,12 +1,21 @@
 # Jack Anglim
 
-Mechanical engineer in the HVAC trade. Software developer by hobby.
+Mechanical engineer. I build small tools and sites that do one job well, mostly for problems I run into myself.
 
-I build practical software for my own use and the people around me:
-ad-free weather forecasts [Jaccuweather](https://github.com/anglim3/jaccuweather)
-and a single-file CLI for the X API [xctl](https://github.com/anglim3/xctl)
-are public right now. Live golf scoring, machine-readable breadboard
-designs, and home automation are in various stages of done.
+## Things I've made
 
-Outside of work: golf, baseball, 3D printing, and generally taking
-things apart to see if they can be put back together better.
+**[Jaccuweather](https://weather.janglim.cloud)**
+A weather forecast with no ads, trackers or clutter. Powered by Open-Meteo and Ventusky. [Source](https://github.com/anglim3/jaccuweather).
+
+**[Crumb](https://crumb.janglim.cloud)**
+An open-source breadboard layout maker and renderer, with an MCP server so AI tools can work with the layouts. [Source](https://github.com/anglim3/crumb).
+
+**[Ductflow](https://ducts.janglim.cloud)**
+An HVAC duct calculator for friction loss and static pressure.
+
+**[jack.janglim.cloud](https://jack.janglim.cloud)**
+My own site, laid out like an HVAC drawing sheet. Hand-written canvas, SVG and CSS, no frameworks.
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/john-anglim-b35b21444/)
